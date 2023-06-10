@@ -47,30 +47,27 @@ body {
 
 .product__Name {
     font-family: 'Lato';
-font-style: normal;
-font-weight: 400;
-font-size: 13px;
-line-height: 16px;
-
-color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #000000;
 }
 
 .product__description {
     font-family: 'Lato';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 17px;
-
-color: #5D5D5D;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    color: #5D5D5D;
 }
 
 .product__price {
     font-family: 'Lato';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 19px;
-
-color: #F16D7F;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F16D7F;
 }
